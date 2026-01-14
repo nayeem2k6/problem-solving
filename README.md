@@ -24,4 +24,4 @@ This repository contains solutions to 10 basic JavaScript logic problems using p
 ## Video Explanation
 I have explained 5 problems in a screen recorded video with voice over.
 
-Google Drive Link: ()
+Google Drive Link: (https://drive.google.com/file/d/1ZKYso6wbR3tGEi7gsV2J2wg5cY8oQn5_/view?usp=sharing)
